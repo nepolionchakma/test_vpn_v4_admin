@@ -9,19 +9,19 @@
 	{	
 	
 
-		DEFINE ('DB_USER', 'db_uname');
-		DEFINE ('DB_PASSWORD', 'db_password');
-		DEFINE ('DB_HOST', 'db_hname'); 
-		DEFINE ('DB_NAME', 'db_name');
+		DEFINE ('DB_USER', 'jumcoder_vpn');
+		DEFINE ('DB_PASSWORD', '28846150N.com');
+		DEFINE ('DB_HOST', 'localhost'); 
+		DEFINE ('DB_NAME', 'jumcoder_vpn');
 	}
 	else
 	{
 		
 
-	 	 DEFINE ('DB_USER', 'db_uname');
-		 DEFINE ('DB_PASSWORD', 'db_password');
-		 DEFINE ('DB_HOST', 'db_hname'); 
-		 DEFINE ('DB_NAME', 'db_name');
+	 	 DEFINE ('DB_USER', 'jumcoder_vpn');
+		 DEFINE ('DB_PASSWORD', '28846150N.com');
+		 DEFINE ('DB_HOST', 'localhost'); 
+		 DEFINE ('DB_NAME', 'jumcoder_vpn');
 	}
 
 

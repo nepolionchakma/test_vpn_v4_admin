@@ -2,10 +2,10 @@
 
 
 // include ("includes/validator.php");
-$DBhost = "db_hname";
-$DBuser = "db_uname";
-$DBpass = "db_password";
-$DBname = "db_name";
+$DBhost = "localhost";
+$DBuser = "jumcoder_vpn";
+$DBpass = "28846150N.com";
+$DBname = "jumcoder_vpn";
 
 $DBcon = new MySQLi($DBhost,$DBuser,$DBpass,$DBname);
 

@@ -27,18 +27,18 @@ $mysqli->set_charset("utf8mb4");
   <meta name="viewport"content="width=device-width, initial-scale=1.0">
   <title> <?php if(isset($page_title)){ echo $page_title.' | '.APP_NAME; }else{ echo APP_NAME; } ?></title>
   <link rel="icon" href="images/<?php echo APP_LOGO;?>" sizes="16x16">
-  <link rel="stylesheet" type="text/css" href="base_urls/assets/css/vendor.css">
-  <link rel="stylesheet" type="text/css" href="base_urls/assets/css/flat-admin.css">
+  <link rel="stylesheet" type="text/css" href="https://vpn.jumcoders.xyz//assets/css/vendor.css">
+  <link rel="stylesheet" type="text/css" href="https://vpn.jumcoders.xyz//assets/css/flat-admin.css">
 
   <!-- Theme -->
-  <link rel="stylesheet" type="text/css" href="base_urls/assets/css/theme/blue-sky.css">
-  <link rel="stylesheet" type="text/css" href="base_urls/assets/css/theme/blue.css">
-  <link rel="stylesheet" type="text/css" href="base_urls/assets/css/theme/red.css">
-  <link rel="stylesheet" type="text/css" href="base_urls/assets/css/theme/yellow.css">
+  <link rel="stylesheet" type="text/css" href="https://vpn.jumcoders.xyz//assets/css/theme/blue-sky.css">
+  <link rel="stylesheet" type="text/css" href="https://vpn.jumcoders.xyz//assets/css/theme/blue.css">
+  <link rel="stylesheet" type="text/css" href="https://vpn.jumcoders.xyz//assets/css/theme/red.css">
+  <link rel="stylesheet" type="text/css" href="https://vpn.jumcoders.xyz//assets/css/theme/yellow.css">
 
-  <link rel="stylesheet" type="text/css" href="base_urls/assets/sweetalert/sweetalert.css">
+  <link rel="stylesheet" type="text/css" href="https://vpn.jumcoders.xyz//assets/sweetalert/sweetalert.css">
 
-  <script src="base_urls/assets/ckeditor/ckeditor.js"></script>
+  <script src="https://vpn.jumcoders.xyz//assets/ckeditor/ckeditor.js"></script>
 
   <?php 
   if(!empty($css_files)){

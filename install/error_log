@@ -1,0 +1,20 @@
+[15-Jan-2023 04:47:57 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 19
+[15-Jan-2023 04:47:57 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 42
+[15-Jan-2023 04:48:00 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 19
+[15-Jan-2023 04:48:00 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 42
+[15-Jan-2023 04:48:05 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 19
+[15-Jan-2023 04:48:05 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 42
+[15-Jan-2023 04:48:08 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 19
+[15-Jan-2023 04:48:08 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 42
+[15-Jan-2023 04:48:08 UTC] PHP Notice:  Undefined index: host in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 263
+[15-Jan-2023 04:48:08 UTC] PHP Notice:  Undefined index: user in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 264
+[15-Jan-2023 04:48:08 UTC] PHP Notice:  Undefined index: baseurl in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 265
+[15-Jan-2023 04:48:08 UTC] PHP Notice:  Undefined index: pass in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 266
+[15-Jan-2023 04:48:08 UTC] PHP Notice:  Undefined index: name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 267
+[15-Jan-2023 04:48:50 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 19
+[15-Jan-2023 04:48:50 UTC] PHP Notice:  Undefined index: product_name in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 42
+[15-Jan-2023 04:48:51 UTC] PHP Warning:  file(https://willdev.in/dhakjdnaknsdjahfhjd/w/dhjakkcnskwieijhsha.default): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 315
+[15-Jan-2023 04:48:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 316
+[15-Jan-2023 04:48:51 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 402
+[15-Jan-2023 04:48:51 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jumcoder/vpn.jumcoders.xyz/install/index.php on line 416
